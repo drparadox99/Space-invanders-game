@@ -1,6 +1,7 @@
 # Space invanders game 
  Space invaders game in python using the pygame library !
-<img width="812" alt="brick game" src="https://github.com/user-attachments/assets/90c6357f-8991-438e-b395-a04422563223" />
+ 
+<img width="912" alt="Capture d’écran 2025-01-06 à 14 06 43" src="https://github.com/user-attachments/assets/41012621-fb99-46cc-91f7-97a6544cb5bb" />
 
 # Spade Invader
 
